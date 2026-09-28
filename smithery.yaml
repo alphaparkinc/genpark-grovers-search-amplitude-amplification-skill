@@ -1,0 +1,6 @@
+name: genpark-grovers-search-amplitude-amplification-skill
+version: 1.0.0
+description: Grover's quantum search algorithm with phase inversion oracle and diffusion reflection operator
+command: python
+args:
+  - mcp_server.py
