@@ -1,0 +1,20 @@
+{
+  "name": "genpark-grovers-search-amplitude-amplification-skill",
+  "version": "1.0.0",
+  "description": "Grover's quantum search algorithm with phase inversion oracle and diffusion reflection operator",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "grovers-algorithm",
+    "amplitude-amplification",
+    "quantum-search",
+    "diffusion-operator",
+    "quadratic-speedup",
+    "python-standard-library",
+    "agent-skills",
+    "quantum-computing",
+    "quantum-oracle",
+    "unstructured-search"
+  ]
+}
